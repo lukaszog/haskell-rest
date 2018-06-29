@@ -1,0 +1,6 @@
+Configuring resource-pool-0.2.3.2...
+Preprocessing library for resource-pool-0.2.3.2..
+Building library for resource-pool-0.2.3.2..
+[1 of 1] Compiling Data.Pool        ( Data/Pool.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.1.0/build/Data/Pool.o )
+Installing library in /home/lukasz/.stack/snapshots/x86_64-linux/lts-11.15/8.2.2/lib/x86_64-linux-ghc-8.2.2/resource-pool-0.2.3.2-4caQkNQi7k1CLkuXQ8ojSH
+Registering library for resource-pool-0.2.3.2..
